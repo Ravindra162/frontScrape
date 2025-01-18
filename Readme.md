@@ -4,7 +4,7 @@ This is a Node.js application for scraping news articles, storing them in a data
 
 ## Features
 
-* Scheduled scraping of news articles every 4 minutes.
+* Scheduled scraping of news articles periodically.
 * Storage of news articles in a database.
 * Real-time updates via WebSocket to connected clients.
 * REST API to fetch the latest news articles.
