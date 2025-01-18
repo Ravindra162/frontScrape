@@ -1,6 +1,9 @@
 # Node.js News Scraper Application
 
 This is a Node.js application for scraping news articles, storing them in a database, and broadcasting updates to WebSocket clients in real-time. The application also provides REST API endpoints for retrieving the latest news.
+## Live Site 🌐
+
+You can check out the live version of the application [here](https://news.tarakaravindra.tech).
 
 ## Features
 
